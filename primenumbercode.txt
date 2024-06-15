@@ -3,11 +3,11 @@ public class Primenumber {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
            
-		int givendata=4;
+		int given_number=4;
 		int count =0;
-		if(givendata>0) {
-			for (int i=1;i<=givendata;i++) {
-				if(givendata%i==0) {
+		if(given_number>0) {
+			for (int i=1;i<=given_number;i++) {
+				if(given_number%i==0) {
 					count++;
 				}
 			}
