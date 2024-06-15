@@ -1,0 +1,22 @@
+public class Primenumber {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+           
+		int givendata=4;
+		int count =0;
+		if(givendata>0) {
+			for (int i=1;i<=givendata;i++) {
+				if(givendata%i==0) {
+					count++;
+				}
+			}
+			if(count==2) {
+				System.out.println("prime number ");
+			}
+			else {
+				System.out.println("not a prime number ");
+			}
+		}
+}
+}
