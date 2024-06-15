@@ -5,7 +5,7 @@ public class crud{
 	public static void main(String[] args) {
 		 Scanner input=new Scanner (System.in);
 
-	System.out.println("WELCOME TO GOMO RETAIL SHOP");
+	System.out.println("WELCOME TO gomo RETAIL SHOP");
 	System.out.println("LIST OF THE PRODUCTS IN THE SHOP");
 	System.out.println("1.soap\n2.paste\n3.toothbrush\n4.toothpaste\n5.perfume\n6.washing powder");
 	System.out.println("ENTER ZERO TO STOP THE BILLING PROCESS");
