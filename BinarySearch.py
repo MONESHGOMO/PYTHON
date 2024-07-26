@@ -10,7 +10,7 @@ a=[5, 6, 7, 8, 9, 10]
 target=8
 
 
-start=0ss
+start=0
 end=len(a)-1
 
 while start <= end :
